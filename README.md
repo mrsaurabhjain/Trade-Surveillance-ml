@@ -204,8 +204,8 @@ This system is directly applicable to:
 
 ## 👤 Author
 
-**Saurabh Kumar Jain**  
-Senior Data Analyst → AI/ML Engineer  
+**SaurabhKumar Jain**  
+Senior Data Analyst → AI/ML Analyst  
 📍 London, United Kingdom  
 🔗 [LinkedIn](https://linkedin.com/in/saurabhkumar-jain249706a1)  
 💻 [GitHub](https://github.com/mrsaurabhjain)
